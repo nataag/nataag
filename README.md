@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Full Stack Developer
 
-☯️ I enjoy both, the server and the client side.
+💔 I enjoy both, the server and the client side.
 
 ⚛️ Used to work with React, I've also worked with Vue.
 
